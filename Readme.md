@@ -1,3 +1,8 @@
+
+<!-- TOC --><a name="summary"></a>
+# Summary
+I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionaate for a new one. Here is my attempt to have a better picture of the situation
+
 <!-- TOC start -->
 - [Summary](#summary)
 	- [AI stuff](#ai-stuff)
@@ -15,10 +20,6 @@
 		- [Web:](#web)
 - [For later](#for-later)
 <!-- TOC end -->
-<!-- TOC --><a name="summary"></a>
-# Summary
-
-I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionaate for a new one. Here is my attempt to have a better picture of the situation
 
 <!-- TOC --><a name="ai-stuff"></a>
 ## AI stuff
