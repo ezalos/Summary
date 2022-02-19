@@ -1,7 +1,26 @@
+<!-- TOC start -->
+- [Summary](#summary)
+	- [AI stuff](#ai-stuff)
+	- [Other](#other)
+		- [Readings](#readings)
+		- [Reading Doers](#reading-doers)
+		- [Doing](#doing)
+		- [Security:](#security)
+		- [System](#system)
+		- [Hardware](#hardware)
+		- [Algorithms](#algorithms)
+		- [Cryptography](#cryptography)
+		- [Random](#random)
+	- [Ease of life](#ease-of-life)
+		- [Web:](#web)
+- [For later](#for-later)
+<!-- TOC end -->
+<!-- TOC --><a name="summary"></a>
 # Summary
 
 I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionaate for a new one. Here is my attempt to have a better picture of the situation
 
+<!-- TOC --><a name="ai-stuff"></a>
 ## AI stuff
 
 - Arbitrary Style Transfer https://gitlab.com/ezalos/StyleMirror
@@ -13,12 +32,15 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - ✔️ Linear Regression: https://github.com/ezalos/ft_linear_regression
 - ✔️ AlphaZero for Connect 4: https://github.com/ezalos/Rhinoforcement
 
+<!-- TOC --><a name="other"></a>
 ## Other
 
+<!-- TOC --><a name="readings"></a>
 ### Readings
 
 - ✔️ Research papers I'm interested in: https://github.com/ezalos/knowledge
 
+<!-- TOC --><a name="reading-doers"></a>
 ### Reading Doers
 
 - HuggingFace tutorial: https://github.com/ezalos/VisageCalin
@@ -29,12 +51,14 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - Rust cookbook: https://github.com/ezalos/Rustorial
 - ✔️ 42AI Python bootcamp: https://github.com/ezalos/Bootcamp_Python
 
+<!-- TOC --><a name="doing"></a>
 ### Doing
 
 - LaTeX beginings: https://github.com/ezalos/TexAvery
 - Markov Chain tests: https://github.com/ezalos/Markov-chain-Monte-Carlo
 - ✔️ Named Entity Recognition: https://github.com/ezalos/Zoomer_TestTech
 
+<!-- TOC --><a name="security"></a>
 ### Security:
 
 - First virus: https://github.com/ezalos/Virus_Faminus
@@ -45,6 +69,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - Quine genrator: https://github.com/ezalos/MetamorphPlayground
 - Quine reflexion: https://github.com/ezalos/Quine
 
+<!-- TOC --><a name="system"></a>
 ### System
 - ✔️ My own version of malloc https://github.com/ezalos/malloc
 - Own version of ping: https://github.com/ezalos/BeerPing
@@ -56,9 +81,11 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - ✔️ printf own implementation: https://github.com/ezalos/ft_printf
 - ✔️ line by line file reader: https://github.com/ezalos/gnl
 
+<!-- TOC --><a name="hardware"></a>
 ### Hardware
 - Rubiks cube robot solver https://github.com/ezalos/ClumsyksBot
 
+<!-- TOC --><a name="algorithms"></a>
 ### Algorithms
 
 - ✔️ Knights movements on a chessboard: https://github.com/ezalos/WalkingHorse
@@ -73,12 +100,14 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - ✔️ Exact cover problem: https://github.com/ezalos/fill_it
 - Linked list playground: https://github.com/ezalos/graph_theory
 
+<!-- TOC --><a name="cryptography"></a>
 ### Cryptography
 
 - ✔️ Feistel cypher: https://github.com/ezalos/Feistel
 - Minimal blockchain implementation https://github.com/ezalos/BroChain
 - Exploring AES: https://github.com/ezalos/AES_GCM
 
+<!-- TOC --><a name="random"></a>
 ### Random
 
 - ✔️ Genrate a sudoku grid. Some numbers can be fixed by the user: https://github.com/ezalos/Sudate
@@ -96,6 +125,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - ✔️ 42 pool backups: https://github.com/ezalos/Piscine
 - Leek Wars: https://gitlab.com/ezalos/leekcorewar
 
+<!-- TOC --><a name="ease-of-life"></a>
 ## Ease of life
 
 - ✔️ Self setup: https://github.com/ezalos/Setup
@@ -110,6 +140,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - 42 setup: https://github.com/ezalos/init_42
 - ✔️ C profiler: https://github.com/ezalos/time_exe
 
+<!-- TOC --><a name="web"></a>
 ### Web:
 
 - ✔️ My website: https://github.com/ezalos/MySith
@@ -118,6 +149,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 
 
 
+<!-- TOC --><a name="for-later"></a>
 # For later
 
 Legend (which I hope to add later 🤞):
