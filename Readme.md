@@ -1,14 +1,6 @@
 # Summary
 
-Legend (which I hope to add later 🤞):
-
-|Meaning|Symbol|
-|:-|-:|
-|Not Started|⬜|
-|In progress|🚧|
-|Finished|✔️|
-|Readme done|⭐|
-
+I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionaate for a new one. Here is my attempt to have a better picture of the situation
 
 ## AI stuff
 
@@ -123,3 +115,16 @@ Legend (which I hope to add later 🤞):
 - My website: https://github.com/ezalos/MySith
 - HTML and CSS introduction: https://github.com/ezalos/PHP_pool
 - Android/iOS app: https://github.com/Kipitup/Par-idylle
+
+
+
+# For later
+
+Legend (which I hope to add later 🤞):
+
+|Meaning|Symbol|
+|:-|-:|
+|Not Started|⬜|
+|In progress|🚧|
+|Finished|✔️|
+|Readme done|⭐|
