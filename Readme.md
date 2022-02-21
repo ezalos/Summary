@@ -1,7 +1,7 @@
 
 <!-- TOC --><a name="summary"></a>
 # Summary
-I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionaate for a new one. Here is my attempt to have a better picture of the situation
+I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionate for a new one. Here is my attempt to have a better picture of the situation
 
 <!-- TOC start -->
 - [Summary](#summary)
