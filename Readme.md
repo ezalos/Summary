@@ -127,7 +127,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - Leek Wars: https://gitlab.com/ezalos/leekcorewar
 
 <!-- TOC --><a name="ease-of-life"></a>
-## Ease of life
+### Ease of life
 
 - ✔️ Self setup: https://github.com/ezalos/Setup
 - ✔️ Automatic school subscription to project corrections: https://github.com/ezalos/correct_projetc
