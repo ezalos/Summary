@@ -16,7 +16,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 		- [Algorithms](#algorithms)
 		- [Cryptography](#cryptography)
 		- [Random](#random)
-	- [Ease of life](#ease-of-life)
+		- [Ease of life](#ease-of-life)
 		- [Web:](#web)
 - [For later](#for-later)
 <!-- TOC end -->
