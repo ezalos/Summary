@@ -125,6 +125,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - ReactNative Tutorial: https://github.com/ezalos/ReactNative
 - ✔️ 42 pool backups: https://github.com/ezalos/Piscine
 - Leek Wars: https://gitlab.com/ezalos/leekcorewar
+- ✔️ Some regex <https://github.com/ezalos/RegEx>
 
 <!-- TOC --><a name="ease-of-life"></a>
 ## Ease of life
