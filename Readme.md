@@ -1,7 +1,7 @@
 
 <!-- TOC --><a name="summary"></a>
 # Summary
-I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionaate for a new one. Here is my attempt to have a better picture of the situation
+I like to do projects, but it's hard for me to keep track of them so I can finish them before I become passionate for a new one. Here is my attempt to have a better picture of the situation
 
 <!-- TOC start -->
 - [Summary](#summary)
@@ -16,7 +16,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 		- [Algorithms](#algorithms)
 		- [Cryptography](#cryptography)
 		- [Random](#random)
-	- [Ease of life](#ease-of-life)
+		- [Ease of life](#ease-of-life)
 		- [Web:](#web)
 - [For later](#for-later)
 <!-- TOC end -->
@@ -128,7 +128,7 @@ I like to do projects, but it's hard for me to keep track of them so I can finis
 - ✔️ Some regex <https://github.com/ezalos/RegEx>
 
 <!-- TOC --><a name="ease-of-life"></a>
-## Ease of life
+### Ease of life
 
 - ✔️ Self setup: https://github.com/ezalos/Setup
 - ✔️ Automatic school subscription to project corrections: https://github.com/ezalos/correct_projetc
